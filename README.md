@@ -7,6 +7,8 @@ This project is a web application that simulates an online shopping cart for cou
 
 ![Screenshot](screenshot.png)
 
+Look at the [DEMO](https://jousemarquez.github.io/ShoppingCart/) about this project can be run here.
+
 ## Features
 
 - Add courses to the cart from the list of available courses.
